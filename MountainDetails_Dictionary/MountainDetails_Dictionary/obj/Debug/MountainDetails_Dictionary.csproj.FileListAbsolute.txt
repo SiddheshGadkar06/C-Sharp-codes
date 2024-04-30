@@ -1,0 +1,7 @@
+C:\Users\2320944\source\repos\MountainDetails_Dictionary\MountainDetails_Dictionary\bin\Debug\MountainDetails_Dictionary.exe.config
+C:\Users\2320944\source\repos\MountainDetails_Dictionary\MountainDetails_Dictionary\bin\Debug\MountainDetails_Dictionary.exe
+C:\Users\2320944\source\repos\MountainDetails_Dictionary\MountainDetails_Dictionary\bin\Debug\MountainDetails_Dictionary.pdb
+C:\Users\2320944\source\repos\MountainDetails_Dictionary\MountainDetails_Dictionary\obj\Debug\MountainDetails_Dictionary.csproj.AssemblyReference.cache
+C:\Users\2320944\source\repos\MountainDetails_Dictionary\MountainDetails_Dictionary\obj\Debug\MountainDetails_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\2320944\source\repos\MountainDetails_Dictionary\MountainDetails_Dictionary\obj\Debug\MountainDetails_Dictionary.exe
+C:\Users\2320944\source\repos\MountainDetails_Dictionary\MountainDetails_Dictionary\obj\Debug\MountainDetails_Dictionary.pdb

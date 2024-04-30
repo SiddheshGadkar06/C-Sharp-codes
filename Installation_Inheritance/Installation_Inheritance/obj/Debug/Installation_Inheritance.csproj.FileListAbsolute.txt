@@ -1,0 +1,7 @@
+C:\Users\2320944\source\repos\Installation_Inheritance\Installation_Inheritance\bin\Debug\Installation_Inheritance.exe.config
+C:\Users\2320944\source\repos\Installation_Inheritance\Installation_Inheritance\bin\Debug\Installation_Inheritance.exe
+C:\Users\2320944\source\repos\Installation_Inheritance\Installation_Inheritance\bin\Debug\Installation_Inheritance.pdb
+C:\Users\2320944\source\repos\Installation_Inheritance\Installation_Inheritance\obj\Debug\Installation_Inheritance.csproj.AssemblyReference.cache
+C:\Users\2320944\source\repos\Installation_Inheritance\Installation_Inheritance\obj\Debug\Installation_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\2320944\source\repos\Installation_Inheritance\Installation_Inheritance\obj\Debug\Installation_Inheritance.exe
+C:\Users\2320944\source\repos\Installation_Inheritance\Installation_Inheritance\obj\Debug\Installation_Inheritance.pdb

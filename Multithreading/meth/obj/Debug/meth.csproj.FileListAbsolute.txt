@@ -1,0 +1,7 @@
+C:\Users\2320944\source\repos\meth\meth\bin\Debug\meth.exe.config
+C:\Users\2320944\source\repos\meth\meth\bin\Debug\meth.exe
+C:\Users\2320944\source\repos\meth\meth\bin\Debug\meth.pdb
+C:\Users\2320944\source\repos\meth\meth\obj\Debug\meth.csproj.AssemblyReference.cache
+C:\Users\2320944\source\repos\meth\meth\obj\Debug\meth.csproj.CoreCompileInputs.cache
+C:\Users\2320944\source\repos\meth\meth\obj\Debug\meth.exe
+C:\Users\2320944\source\repos\meth\meth\obj\Debug\meth.pdb
