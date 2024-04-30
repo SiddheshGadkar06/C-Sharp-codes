@@ -1,0 +1,7 @@
+C:\Users\2320944\source\repos\Replace\Replace\bin\Debug\Replace.exe.config
+C:\Users\2320944\source\repos\Replace\Replace\bin\Debug\Replace.exe
+C:\Users\2320944\source\repos\Replace\Replace\bin\Debug\Replace.pdb
+C:\Users\2320944\source\repos\Replace\Replace\obj\Debug\Replace.csproj.AssemblyReference.cache
+C:\Users\2320944\source\repos\Replace\Replace\obj\Debug\Replace.csproj.CoreCompileInputs.cache
+C:\Users\2320944\source\repos\Replace\Replace\obj\Debug\Replace.exe
+C:\Users\2320944\source\repos\Replace\Replace\obj\Debug\Replace.pdb
