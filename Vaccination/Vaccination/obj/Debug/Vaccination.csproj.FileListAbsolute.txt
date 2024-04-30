@@ -1,0 +1,7 @@
+C:\Users\2320944\source\repos\Vaccination\Vaccination\bin\Debug\Vaccination.exe.config
+C:\Users\2320944\source\repos\Vaccination\Vaccination\bin\Debug\Vaccination.exe
+C:\Users\2320944\source\repos\Vaccination\Vaccination\bin\Debug\Vaccination.pdb
+C:\Users\2320944\source\repos\Vaccination\Vaccination\obj\Debug\Vaccination.csproj.AssemblyReference.cache
+C:\Users\2320944\source\repos\Vaccination\Vaccination\obj\Debug\Vaccination.csproj.CoreCompileInputs.cache
+C:\Users\2320944\source\repos\Vaccination\Vaccination\obj\Debug\Vaccination.exe
+C:\Users\2320944\source\repos\Vaccination\Vaccination\obj\Debug\Vaccination.pdb
