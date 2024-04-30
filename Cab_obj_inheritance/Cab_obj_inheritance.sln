@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cab_obj_inheritance", "Cab_obj_inheritance\Cab_obj_inheritance.csproj", "{18A64D33-7406-4C95-8B04-AD854EAFD3DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18A64D33-7406-4C95-8B04-AD854EAFD3DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18A64D33-7406-4C95-8B04-AD854EAFD3DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18A64D33-7406-4C95-8B04-AD854EAFD3DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18A64D33-7406-4C95-8B04-AD854EAFD3DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A926F890-A842-4D70-8A11-D0A2591E27FA}
+	EndGlobalSection
+EndGlobal

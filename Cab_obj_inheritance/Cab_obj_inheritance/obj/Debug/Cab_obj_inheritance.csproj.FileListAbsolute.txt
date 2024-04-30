@@ -1,0 +1,7 @@
+C:\Users\2320944\source\repos\Cab_obj_inheritance\Cab_obj_inheritance\bin\Debug\Cab_obj_inheritance.exe.config
+C:\Users\2320944\source\repos\Cab_obj_inheritance\Cab_obj_inheritance\bin\Debug\Cab_obj_inheritance.exe
+C:\Users\2320944\source\repos\Cab_obj_inheritance\Cab_obj_inheritance\bin\Debug\Cab_obj_inheritance.pdb
+C:\Users\2320944\source\repos\Cab_obj_inheritance\Cab_obj_inheritance\obj\Debug\Cab_obj_inheritance.csproj.AssemblyReference.cache
+C:\Users\2320944\source\repos\Cab_obj_inheritance\Cab_obj_inheritance\obj\Debug\Cab_obj_inheritance.csproj.CoreCompileInputs.cache
+C:\Users\2320944\source\repos\Cab_obj_inheritance\Cab_obj_inheritance\obj\Debug\Cab_obj_inheritance.exe
+C:\Users\2320944\source\repos\Cab_obj_inheritance\Cab_obj_inheritance\obj\Debug\Cab_obj_inheritance.pdb
