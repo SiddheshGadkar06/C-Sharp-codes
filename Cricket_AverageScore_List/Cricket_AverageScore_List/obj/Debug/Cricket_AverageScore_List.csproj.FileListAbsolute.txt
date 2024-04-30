@@ -1,0 +1,7 @@
+C:\Users\2320944\source\repos\Cricket_AverageScore_List\Cricket_AverageScore_List\bin\Debug\Cricket_AverageScore_List.exe.config
+C:\Users\2320944\source\repos\Cricket_AverageScore_List\Cricket_AverageScore_List\bin\Debug\Cricket_AverageScore_List.exe
+C:\Users\2320944\source\repos\Cricket_AverageScore_List\Cricket_AverageScore_List\bin\Debug\Cricket_AverageScore_List.pdb
+C:\Users\2320944\source\repos\Cricket_AverageScore_List\Cricket_AverageScore_List\obj\Debug\Cricket_AverageScore_List.csproj.AssemblyReference.cache
+C:\Users\2320944\source\repos\Cricket_AverageScore_List\Cricket_AverageScore_List\obj\Debug\Cricket_AverageScore_List.csproj.CoreCompileInputs.cache
+C:\Users\2320944\source\repos\Cricket_AverageScore_List\Cricket_AverageScore_List\obj\Debug\Cricket_AverageScore_List.exe
+C:\Users\2320944\source\repos\Cricket_AverageScore_List\Cricket_AverageScore_List\obj\Debug\Cricket_AverageScore_List.pdb

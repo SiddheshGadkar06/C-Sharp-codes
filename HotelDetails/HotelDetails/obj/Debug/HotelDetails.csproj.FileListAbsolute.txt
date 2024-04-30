@@ -1,0 +1,7 @@
+C:\Users\2320944\source\repos\HotelDetails\HotelDetails\bin\Debug\HotelDetails.exe.config
+C:\Users\2320944\source\repos\HotelDetails\HotelDetails\bin\Debug\HotelDetails.exe
+C:\Users\2320944\source\repos\HotelDetails\HotelDetails\bin\Debug\HotelDetails.pdb
+C:\Users\2320944\source\repos\HotelDetails\HotelDetails\obj\Debug\HotelDetails.csproj.AssemblyReference.cache
+C:\Users\2320944\source\repos\HotelDetails\HotelDetails\obj\Debug\HotelDetails.csproj.CoreCompileInputs.cache
+C:\Users\2320944\source\repos\HotelDetails\HotelDetails\obj\Debug\HotelDetails.exe
+C:\Users\2320944\source\repos\HotelDetails\HotelDetails\obj\Debug\HotelDetails.pdb
