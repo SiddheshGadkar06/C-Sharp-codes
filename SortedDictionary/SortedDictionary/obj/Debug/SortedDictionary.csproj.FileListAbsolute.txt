@@ -1,0 +1,7 @@
+C:\Users\2320944\source\repos\SortedDictionary\SortedDictionary\bin\Debug\SortedDictionary.exe.config
+C:\Users\2320944\source\repos\SortedDictionary\SortedDictionary\bin\Debug\SortedDictionary.exe
+C:\Users\2320944\source\repos\SortedDictionary\SortedDictionary\bin\Debug\SortedDictionary.pdb
+C:\Users\2320944\source\repos\SortedDictionary\SortedDictionary\obj\Debug\SortedDictionary.csproj.AssemblyReference.cache
+C:\Users\2320944\source\repos\SortedDictionary\SortedDictionary\obj\Debug\SortedDictionary.csproj.CoreCompileInputs.cache
+C:\Users\2320944\source\repos\SortedDictionary\SortedDictionary\obj\Debug\SortedDictionary.exe
+C:\Users\2320944\source\repos\SortedDictionary\SortedDictionary\obj\Debug\SortedDictionary.pdb
