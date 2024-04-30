@@ -1,0 +1,7 @@
+C:\Users\2320944\source\repos\ProductReorderLevel_Dictionary\ProductReorderLevel_Dictionary\bin\Debug\ProductReorderLevel_Dictionary.exe.config
+C:\Users\2320944\source\repos\ProductReorderLevel_Dictionary\ProductReorderLevel_Dictionary\bin\Debug\ProductReorderLevel_Dictionary.exe
+C:\Users\2320944\source\repos\ProductReorderLevel_Dictionary\ProductReorderLevel_Dictionary\bin\Debug\ProductReorderLevel_Dictionary.pdb
+C:\Users\2320944\source\repos\ProductReorderLevel_Dictionary\ProductReorderLevel_Dictionary\obj\Debug\ProductReorderLevel_Dictionary.csproj.AssemblyReference.cache
+C:\Users\2320944\source\repos\ProductReorderLevel_Dictionary\ProductReorderLevel_Dictionary\obj\Debug\ProductReorderLevel_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\2320944\source\repos\ProductReorderLevel_Dictionary\ProductReorderLevel_Dictionary\obj\Debug\ProductReorderLevel_Dictionary.exe
+C:\Users\2320944\source\repos\ProductReorderLevel_Dictionary\ProductReorderLevel_Dictionary\obj\Debug\ProductReorderLevel_Dictionary.pdb
